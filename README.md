@@ -19,16 +19,14 @@ Add ConnectOnion to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(path: "../connectonion-swift")  // For local development
-    // Or from GitHub:
-    // .package(url: "https://github.com/yourusername/connectonion-swift.git", from: "0.0.1")
+    .package(url: "https://github.com/openonion/connectonion-swift.git", from: "0.0.1")
 ]
 ```
 
 ### Build from Source
 
 ```bash
-git clone https://github.com/yourusername/connectonion-swift.git
+git clone https://github.com/openonion/connectonion-swift.git
 cd connectonion-swift
 swift build
 ```
@@ -458,5 +456,5 @@ MIT License - See LICENSE file for details
 
 ## 🙏 Acknowledgments
 
-This is a Swift port of the original [ConnectOnion](https://github.com/yourusername/connectonion) Python framework, maintaining API compatibility and behavior parity for cross-platform agent development.
+This is a Swift port of the original [ConnectOnion](https://github.com/openonion/connectonion) Python framework, maintaining API compatibility and behavior parity for cross-platform agent development.
 
