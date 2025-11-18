@@ -440,6 +440,26 @@ Test coverage includes:
 - **Tool execution** tests
 - **History tracking** verification
 
+---
+
+## 💬 Join the Community
+
+[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/4xfD9k8AUF)
+
+Get help, share agents, and discuss with 1000+ builders in our active community.
+
+---
+
+## ⭐ Show Your Support
+
+If ConnectOnion helps you build better agents, **give it a star!** ⭐
+
+It helps others discover the framework and motivates us to keep improving it.
+
+[⭐ Star on GitHub](https://github.com/openonion/connectonion-swift)
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! Please:
